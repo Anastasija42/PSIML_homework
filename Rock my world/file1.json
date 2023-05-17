@@ -1,0 +1,17 @@
+[
+    {
+        "attendance": 10000,
+        "band_name": "Pink Floyd",
+        "is_indie": true
+    },
+    {
+        "is_indie": false,
+        "attendance": 90000,
+        "band_name": "Aqua"
+    },
+    {
+        "band_name": "Michael Jackson",
+        "attendance": 30000,
+        "is_indie": false
+    }
+]
